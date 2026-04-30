@@ -1,0 +1,22 @@
+{
+  "name": "saas-factory",
+  "version": "1.0.0",
+  "description": "🏭 Fábrica de SaaS — Agentes IA para criar, deployar e monitorar SaaS automaticamente",
+  "type": "module",
+  "scripts": {
+    "create": "tsx scripts/create-saas.ts",
+    "monitor": "tsx scripts/monitor-all.ts",
+    "deploy": "tsx scripts/deploy.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.37.0",
+    "tsx": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
