@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "skills": {
+    "codenavi": {
+      "name": "codenavi",
+      "source": "local",
+      "contentHash": "23ac05b7f2d8df8311129d41432eba248bdcf14e9ace3f17c581976f7d888ada",
+      "installedAt": "2026-05-03T00:32:18.467Z",
+      "updatedAt": "2026-05-03T00:32:18.478Z",
+      "agents": [
+        "cursor",
+        "claude-code",
+        "windsurf"
+      ],
+      "method": "copy",
+      "global": false
+    },
+    "best-practices": {
+      "name": "best-practices",
+      "source": "local",
+      "contentHash": "2abba650ba22a819e67f8c2fb09d0f5f33a24d66d945ee2ef824751bc97151ce",
+      "installedAt": "2026-05-03T00:32:28.337Z",
+      "updatedAt": "2026-05-03T00:32:28.350Z",
+      "agents": [
+        "cursor",
+        "claude-code",
+        "windsurf"
+      ],
+      "method": "copy",
+      "global": false
+    },
+    "coding-guidelines": {
+      "name": "coding-guidelines",
+      "source": "local",
+      "contentHash": "28a414c715d3c41aae28a25e2f109813ec3f246f76b5567c1e7d6a128cd289ff",
+      "installedAt": "2026-05-03T00:32:32.660Z",
+      "updatedAt": "2026-05-03T00:32:32.668Z",
+      "agents": [
+        "cursor",
+        "claude-code",
+        "windsurf"
+      ],
+      "method": "copy",
+      "global": false
+    },
+    "ai-pricing": {
+      "name": "ai-pricing",
+      "source": "local",
+      "contentHash": "642a42cf94b8061aad642d84363bb4f60712af858c093bed6f2ec6135a3e7937",
+      "installedAt": "2026-05-03T00:32:37.373Z",
+      "updatedAt": "2026-05-03T00:32:37.387Z",
+      "agents": [
+        "cursor",
+        "claude-code",
+        "windsurf"
+      ],
+      "method": "copy",
+      "global": false
+    },
+    "ai-seo": {
+      "name": "ai-seo",
+      "source": "local",
+      "contentHash": "8ff9c7d6181c37c92fb225a8559d50ee5413c20e6a7ae240e05bb6a532d64f9b",
+      "installedAt": "2026-05-03T00:32:41.637Z",
+      "updatedAt": "2026-05-03T00:32:41.645Z",
+      "agents": [
+        "cursor",
+        "claude-code"
+      ],
+      "method": "copy",
+      "global": false
+    }
+  }
+}
